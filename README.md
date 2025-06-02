@@ -1,6 +1,6 @@
-Sistema de stock y ventas 
+***Sistema de stock y ventas***
 
-integrantes del grupo
+***integrantes del grupo***
 
 Juan Andres
 Angel Palmieri
@@ -9,4 +9,4 @@ Paula Cortez
 Fernando Marelli
 
 
-Titulo del proyecto 
+***Titulo del proyecto*** 
