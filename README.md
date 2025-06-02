@@ -22,6 +22,7 @@ Fernando Marelli
 Este proyecto consiste en el desarrollo de un sistema de gestión para una zapatería, implementado en Python y utilizando SQLite como base de datos. El sistema se desarrollará en modo consola y está diseñado para manejar de manera eficiente las operaciones clave de una zapatería, incluyendo la gestión de productos, ventas, compras, inventario y generación de reportes.
 
 ***Funcionalidades del Sistema:***
+
 Gestión de Productos: Permite registrar, modificar y consultar los productos disponibles en la zapatería, incluyendo detalles como tallas, marcas y categorías.
 
 Gestión de Ventas: Registra las ventas realizadas, maneja la información de los clientes y detalla los métodos de pago utilizados.
