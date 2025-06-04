@@ -21,11 +21,11 @@ Tienda de productos tecnologicos
 28/05/2025
 
 ***Descripción:***
-Este proyecto consiste en el desarrollo de un sistema de gestión para una zapatería, implementado en Python y utilizando SQLite como base de datos. El sistema se desarrollará en modo consola y está diseñado para manejar de manera eficiente las operaciones clave de una zapatería, incluyendo la gestión de productos, ventas, compras, inventario y generación de reportes.
+Este proyecto consiste en el desarrollo de un sistema de gestión para una tienda de tecnologia, implementado en Python y utilizando SQLite como base de datos. El sistema se desarrollará en modo consola y está diseñado para manejar de manera eficiente las operaciones clave de una tienda de tecnologia, incluyendo la gestión de productos, ventas, compras, inventario y generación de reportes.
 
 ***Funcionalidades del Sistema:***
 
-Gestión de Productos: Permite registrar, modificar y consultar los productos disponibles en la zapatería, incluyendo detalles como tallas, marcas y categorías.
+Gestión de Productos: Permite registrar, modificar y consultar los productos disponibles en la tienda, incluyendo detalles como marcas , productos , tipos y categorias.
 
 Gestión de Ventas: Registra las ventas realizadas, maneja la información de los clientes y detalla los métodos de pago utilizados.
 
@@ -36,4 +36,4 @@ Gestión de Inventario: Mantiene un control del stock disponible, registrando lo
 Generación de Reportes: Ofrece reportes detallados sobre las ventas, inventario y compras, ayudando a la toma de decisiones informadas.
 
 ***Objetivo:***
-El objetivo principal de este proyecto es proporcionar una solución de software simple pero efectiva para la gestión integral de una zapatería, permitiendo a los usuarios manejar todas las operaciones diarias desde un único sistema
+El objetivo principal de este proyecto es proporcionar una solución de software simple pero efectiva para la gestión integral de una tienda de tecnologia, permitiendo a los usuarios manejar todas las operaciones diarias desde un único sistema
