@@ -12,6 +12,10 @@ Paula Cortez
 
 Fernando Marelli
 
+***team leader***
+
+Juan Andres
+
 
 ***Titulo del proyecto*** 
 
